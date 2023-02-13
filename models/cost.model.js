@@ -1,3 +1,6 @@
+// Daniel Shkliar - 208494906
+//Lior Silman - 315318261
+
 const mongoose = require("mongoose");
 const constants = require("../utils/constants");
 const crypto = require("crypto");
